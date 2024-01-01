@@ -3,7 +3,7 @@ From `https://www.devdungeon.com`:
 
 " A cookbook in the programming context is collection of tiny programs that each demonstrate a particular programming concept. The Cookbook Method is the process of learning a programming language by building up a repository of small programs that implement specific programming concepts. Starting with a Hello World program and building the knowledge piece by piece on top of that."
 
-This cookbook will be branched for separate languages and cover the same basic topics before diverging from one another for more specialised matters that each language excells in. Snippets of such can be used to structure, alter or be appended to other coding projects. This is a tool for language learning, development and to speed up more complex tasks without requiring the searching of stack overflow and other such sites.
+This cookbook will contain multiple separate languages to accesss as and when they are used. These will initially cover the same basic topics before diverging from one another for more specialised matters that each language excells in. Snippets of such can be used to structure, alter or be appended to other coding projects. This is a tool for language learning, development and to speed up more complex tasks without requiring the searching of stack overflow and other such sites.
 
 This is a permanent work in progress.
 
